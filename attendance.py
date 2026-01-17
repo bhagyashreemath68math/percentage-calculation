@@ -16,7 +16,7 @@ print("Classes Attended     :", classes_attended)
 print("Attendance Percentage:", percentage)
 
 if percentage >= 75:
-    print("Status               : Eligible")
+    print("Status : Eligible")
 else:
-    print("Status               : Not Eligible")
-    print("Note                 : Minimum 75% attendance required")
+    print("Status : Not Eligible")
+    print("Note : Minimum 75% attendance required")
